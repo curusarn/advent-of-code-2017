@@ -4,3 +4,6 @@ day01:
 
 day02:
 	python src/day-02-checksum.py data/day-02-checksum.txt
+
+day03:
+	python src/day-03-spiral-memory.py data/day-03-spiral-memory.txt
